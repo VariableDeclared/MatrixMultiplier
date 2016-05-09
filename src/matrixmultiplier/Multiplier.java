@@ -9,7 +9,7 @@ package matrixmultiplier;
  * @author UP732011 <UP732011@myport.ac.uk>
  */
 public class Multiplier {
-    public static final Integer [] [] Multiply2DMatrices(Integer [][] mat1, 
+    public static final Integer [] [] MultiplyInteger2DMatrices(Integer [][] mat1, 
             Integer [][] mat2) throws Exception
     {
         
